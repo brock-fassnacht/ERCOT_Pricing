@@ -1,0 +1,7 @@
+*.py
+*.csv
+*.xlsx
+*.zip
+RTM_Resource_Hubs/
+ercot_dam_files/
+ercot_ACTUAL_dam_files/
